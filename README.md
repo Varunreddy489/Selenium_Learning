@@ -37,22 +37,20 @@ This is a simple Python automation script that uses **Selenium WebDriver** to de
   - Enter a password in the **second input field** with class `inputtext`
 - Waits for 10 seconds before quitting
 
-
 ---
-
 
 Install Selenium:
 
-```bash
+````
 pip install selenium
 
 
-2. 
+2.
 
 ## Getting Started
 
 1. **Clone the repository:**
-    ```bash
+    ```
     git clone <repository-url>
     cd selenium_tut
     ```
@@ -60,7 +58,7 @@ pip install selenium
 2. **Install dependencies:**
     - Make sure you have Python and pip installed.
     - Install Selenium:
-      ```bash
+      ```
       pip install selenium
       ```
 
@@ -70,12 +68,15 @@ pip install selenium
 ## Usage
 
 - Run the example scripts to see Selenium in action:
-  ```bash
-  python <script_name>.py
-  ```
+````
+
+python <script_name>.py
+
+```
 
 ## Resources
 
 - [Selenium Documentation](https://www.selenium.dev/documentation/)
 - [WebDriver Downloads](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
 
+```
