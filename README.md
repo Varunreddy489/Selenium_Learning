@@ -24,7 +24,6 @@ This is a simple Python automation script that uses Selenium WebDriver to locate
 - Maximize the browser window
 - Count the number of `<input>` elements on the page
 - Print the count in the console
----
 
 ## 3. Locaters - CSS SELECTORS
 
@@ -37,6 +36,8 @@ This is a simple Python automation script that uses **Selenium WebDriver** to de
   - Enter a name in the **email input field** using `input#email`
   - Enter a password in the **second input field** with class `inputtext`
 - Waits for 10 seconds before quitting
+
+
 ---
 
 
