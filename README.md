@@ -79,6 +79,3 @@ pip install selenium
 - [Selenium Documentation](https://www.selenium.dev/documentation/)
 - [WebDriver Downloads](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
 
-## License
-
-This project is licensed under the MIT License. 
